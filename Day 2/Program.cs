@@ -1,5 +1,7 @@
 ﻿using BirdSpecies;
 using DisplayLib;
+
+namespace Program;
 class Program
 {
 	static void Main()
@@ -7,10 +9,21 @@ class Program
 		Bird Parrot = new Bird("Parrot");
 		Bird Penguin = new Bird("Penguin");
 		
-		string penguinWeight = Penguin.GetWeight();
-		Display.PrintRest("Penguin Weight " + penguinWeight);
+		// string penguinWeight = Penguin.GetWeight();
+		// string penguinColor = Penguin.GetColor();
+		// string penguinFood = Penguin.GetFood();
+		// Display.PrintRest("Penguin Weight " + penguinWeight);
+		// Display.PrintRest("Penguin Color " + penguinColor);
+		// Display.PrintRest("Penguin Food " + penguinFood);
+		string penguinData = Penguin.GetData();
 		
+		Console.WriteLine("\n");
+
 		string parrotWeight = Parrot.GetWeight();
+		string parrotColor = Parrot.GetColor();
+		string parrotFood = Parrot.GetFood();
 		Display.PrintRest("Parrot Weight " + parrotWeight);
+		Display.PrintRest("Parrot Color " + parrotColor);
+		Display.PrintRest("Parrot Food " + parrotFood);
 	}
 }

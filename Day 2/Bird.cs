@@ -5,7 +5,8 @@ public class Bird
 	private string _species;
 	private string _weight;
 	private string _color;
-	// private string _food;
+	private string _food;
+	private string _data;
 	// private string _walk;
 	// private string _fly;
 	
@@ -24,6 +25,13 @@ public class Bird
 		{
 			_weight = "1100 grams";
 			_color = "white";
+			_food = "fish";
+		}
+		else
+		{
+			_weight = "300 grams";
+			_color = "red";
+			_food = "seed";
 		}
 	}
 	
@@ -32,13 +40,19 @@ public class Bird
 		return _weight;
 	}
 	
-	public string GetSpecies()
-	{
-		return _species;
-	}
-	
 	public string GetColor()
 	{
 		return _color;
+	}
+
+	public string GetFood()
+	{
+		return _food;
+	}
+
+	public string GetData()
+	{
+		_data = (_color, _weight, _food);
+		return _data;
 	}
 }
