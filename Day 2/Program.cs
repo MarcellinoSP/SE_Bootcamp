@@ -4,13 +4,13 @@ class Program
 {
 	static void Main()
 	{
-		Bird Parrot = new Bird("Parrot", "300 Grams", "Red");
-		Bird Penguin = new Bird("Penguin", "1100 Grams", "White");
+		Bird Parrot = new Bird("Parrot");
+		Bird Penguin = new Bird("Penguin");
 		
-		string penguinWeight = Penguin.getWeight();
+		string penguinWeight = Penguin.GetWeight();
 		Display.PrintRest("Penguin Weight " + penguinWeight);
 		
-		string parrotWeight = Parrot.getWeight();
+		string parrotWeight = Parrot.GetWeight();
 		Display.PrintRest("Parrot Weight " + parrotWeight);
 	}
 }

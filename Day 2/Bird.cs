@@ -20,24 +20,24 @@ public class Bird
 	
 	public Bird(string species)
 	{
-		if (_species == "Penguin")
+		if (species == "Penguin")
 		{
 			_weight = "1100 grams";
 			_color = "white";
 		}
 	}
 	
-	public string getWeight()
+	public string GetWeight()
 	{	
 		return _weight;
 	}
 	
-	public string getSpecies()
+	public string GetSpecies()
 	{
 		return _species;
 	}
 	
-	public string getColor()
+	public string GetColor()
 	{
 		return _color;
 	}
