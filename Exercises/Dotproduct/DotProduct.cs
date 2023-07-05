@@ -12,8 +12,11 @@ public class Calculate
 		_secondSize = secondSize;
 	}
 }
-    // for(int i = 0; i<_firstSize; i++){
-    //     for(int j = 0; j<_secondSize; j++){
+public int CalculateResult(_firstSize, _secondSize, firstContent[], secondContent[])
+{
+    for(int i = 0; i<_firstSize; i++){
+        for(int j = 0; j<_secondSize; j++){
 
-    //     }
-    // }
+        }
+    }
+}

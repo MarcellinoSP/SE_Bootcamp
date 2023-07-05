@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Exercises.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Dotproduct\\Exercises.csproj",
       "projectName": "Exercises",
-      "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Exercises.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Dotproduct\\Exercises.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Dotproduct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
