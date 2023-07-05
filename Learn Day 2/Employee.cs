@@ -1,6 +1,6 @@
 namespace EmployeeLibrary;
 
-public class Employeee
+public class Employee
 {
 	private string _name;
 	private string _emailAddress;
@@ -12,7 +12,7 @@ public class Employeee
 	
 	public string Age2;
 	
-	public Employeee(string name, decimal salary)
+	public Employee(string name, decimal salary)
 	{
 		_name = name;
 		if (salary > 0) 
