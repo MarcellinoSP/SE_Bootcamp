@@ -13,3 +13,18 @@ C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Modulo\obj\D
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Modulo\obj\Debug\net7.0\Modulo.pdb
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Modulo\obj\Debug\net7.0\Modulo.genruntimeconfig.cache
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Modulo\obj\Debug\net7.0\ref\Modulo.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\bin\Debug\net7.0\Modulo.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\bin\Debug\net7.0\Modulo.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\bin\Debug\net7.0\Modulo.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\bin\Debug\net7.0\Modulo.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\bin\Debug\net7.0\Modulo.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\refint\Modulo.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\Modulo.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Modulo\obj\Debug\net7.0\ref\Modulo.dll
