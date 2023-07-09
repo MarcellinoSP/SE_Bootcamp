@@ -50,9 +50,11 @@ public class Bird
 		return _food;
 	}
 
-	// public string GetData()
-	// {
-	// 	_data = (_color, _weight, _food);
-	// 	return _data;
-	// }
+// 	public string GetData()
+// 	{
+// 		GetData._weight = weight;
+// 		GetData._color  = color;
+// 		GetData._food = food;
+// 		return GetData;
+// 	}
 }

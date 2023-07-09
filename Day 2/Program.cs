@@ -15,7 +15,7 @@ class Program
 		Display.PrintRest("Penguin Weight " + penguinWeight);
 		Display.PrintRest("Penguin Color " + penguinColor);
 		Display.PrintRest("Penguin Food " + penguinFood);
-		// string penguinData = Penguin.GetData();
+		// Console.WriteLine(GetData.weight);
 		
 		Console.WriteLine("\n");
 
