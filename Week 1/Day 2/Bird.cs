@@ -2,11 +2,11 @@ namespace BirdSpecies;
 
 public class Bird
 {
-	private string _species;
-	private string _weight;
-	private string _color;
-	private string _food;
-	private string _data;
+	private string? _species;
+	private string? _weight;
+	private string? _color;
+	private string? _food;
+	private string? _data;
 	// private string _walk;
 	// private string _fly;
 	
