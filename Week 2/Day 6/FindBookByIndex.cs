@@ -71,7 +71,7 @@ public class BookDescription
 					Console.WriteLine("Mystery books contains story about crime or disapearance case");
 					break;
 				case 5:
-					Console.WriteLine("HIstory books contains history about phenomenon happened in the past");
+					Console.WriteLine("History books contains history about phenomenon happened in the past");
 					break;
 			}
 		}else

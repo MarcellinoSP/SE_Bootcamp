@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\bin\Debug\net7.0\TryParseProgram.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\bin\Debug\net7.0\TryParseProgram.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\bin\Debug\net7.0\TryParseProgram.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\bin\Debug\net7.0\TryParseProgram.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\bin\Debug\net7.0\TryParseProgram.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\refint\TryParseProgram.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\TryParseProgram.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\TryParseProgram\obj\Debug\net7.0\ref\TryParseProgram.dll

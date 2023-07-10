@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\bin\Debug\net7.0\Learn Event Handler.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\bin\Debug\net7.0\Learn Event Handler.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\bin\Debug\net7.0\Learn Event Handler.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\bin\Debug\net7.0\Learn Event Handler.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\bin\Debug\net7.0\Learn Event Handler.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\refint\Learn Event Handler.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\Learn Event Handler.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Learn Event Handler\obj\Debug\net7.0\ref\Learn Event Handler.dll
