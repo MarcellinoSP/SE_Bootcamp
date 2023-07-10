@@ -9,13 +9,13 @@ public class Program
 		Console.Write("Insert Book Index Number: ");
 		indexNumber = Convert.ToInt32(Console.ReadLine());
 		
-		// USING DELEGATE METHOD, UPDATED WITH MINOR BUGS
+		// USING DELEGATE METHOD
 		BookIdentify books = new BookIdentify();
-		BookDescription getDescription = new BookDescription();
+		Book identify = books.GetBook; 
+		identify(indexNumber);
 		
-		Book identify = null; 
-		identify += books.GetBook;
-		identify += getDescription.DescriptionBook;
+		BookDescription getDescription = new BookDescription();
+		identify = getDescription.DescriptionBook;
 		identify(indexNumber);
 		// END OF DELEGATE METHOD
 		
