@@ -13,3 +13,18 @@ C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 6\obj\Debug\net7.
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 6\obj\Debug\net7.0\Day 6.pdb
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 6\obj\Debug\net7.0\Day 6.genruntimeconfig.cache
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 6\obj\Debug\net7.0\ref\Day 6.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\refint\Day 6.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\bin\Debug\net7.0\Day 6.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\bin\Debug\net7.0\Day 6.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\bin\Debug\net7.0\Day 6.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\bin\Debug\net7.0\Day 6.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\bin\Debug\net7.0\Day 6.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\Day 6.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 6\obj\Debug\net7.0\ref\Day 6.dll

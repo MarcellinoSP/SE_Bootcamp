@@ -9,22 +9,23 @@ public class Program
 		Console.Write("Insert Book Index Number: ");
 		indexNumber = Convert.ToInt32(Console.ReadLine());
 		
-		// USING DELEGATE METHOD, CURRENTLY STILL ERROR
-		// BookIdentify books = new BookIdentify();
-		// BookDescription getDescription = new BookDescription();
+		// USING DELEGATE METHOD, UPDATED WITH MINOR BUGS
+		BookIdentify books = new BookIdentify();
+		BookDescription getDescription = new BookDescription();
 		
-		// Book identify; 
-		// identify += books.GetBook(in indexNumber);
-		// identify += getDescription.DescriptionBook(in indexNumber);
+		Book identify = null; 
+		identify += books.GetBook;
+		identify += getDescription.DescriptionBook;
+		identify(indexNumber);
 		// END OF DELEGATE METHOD
 		
 		// USING SIMPLE METHOD
-		BookIdentify books = new BookIdentify();
-		books.GetBook(in indexNumber);
+		// BookIdentify books = new BookIdentify();
+		// books.GetBook(in indexNumber);
 		
-		BookDescription getDescription = new BookDescription();
-		getDescription.DescriptionBook(in indexNumber);
+		// BookDescription getDescription = new BookDescription();
+		// getDescription.DescriptionBook(in indexNumber);
 		// END OF METHOD
-		Console.ReadLine();
+		// Console.ReadLine();
 	}
 }
