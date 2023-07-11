@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\bin\Debug\net7.0\Publisher - Subscriber.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\bin\Debug\net7.0\Publisher - Subscriber.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\bin\Debug\net7.0\Publisher - Subscriber.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\bin\Debug\net7.0\Publisher - Subscriber.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\bin\Debug\net7.0\Publisher - Subscriber.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\refint\Publisher - Subscriber.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\Publisher - Subscriber.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Publisher - Subscriber\obj\Debug\net7.0\ref\Publisher - Subscriber.dll

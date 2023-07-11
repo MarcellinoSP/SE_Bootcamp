@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\bin\Debug\net7.0\Car Workshop.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\bin\Debug\net7.0\Car Workshop.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\bin\Debug\net7.0\Car Workshop.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\bin\Debug\net7.0\Car Workshop.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\bin\Debug\net7.0\Car Workshop.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\refint\Car Workshop.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\Car Workshop.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Car Workshop\obj\Debug\net7.0\ref\Car Workshop.dll
