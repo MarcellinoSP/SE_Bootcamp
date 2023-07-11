@@ -57,10 +57,14 @@ public class Library
 	public void Borrow(string borrowedBookType, string borrowedBookTitle)
 	{
 		Console.WriteLine($"Borrowing {borrowedBookType} books: {borrowedBookTitle}");
+		LibraryBorrow libraryBorrow = new LibraryBorrow(borrowedBookType, borrowedBookTitle);
+		onBookBorrow(libraryBorrow);
 	}
 	public void Return(string returnedBookType, string returnedBookTitle)
 	{
 		Console.WriteLine($"Returning {returnedBookType} books: {returnedBookTitle}");
+		LibraryReturn libraryReturn = new LibraryReturn(returnedBookType, returnedBookTitle);
+		onBookReturn(libraryReturn);
 	}
 	protected virtual void onBookBorrow(LibraryBorrow e)
 	{
