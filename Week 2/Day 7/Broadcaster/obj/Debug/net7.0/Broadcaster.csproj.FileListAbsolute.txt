@@ -13,3 +13,18 @@ C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Broadcaster\
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Broadcaster\obj\Debug\net7.0\Broadcaster.pdb
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Broadcaster\obj\Debug\net7.0\Broadcaster.genruntimeconfig.cache
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Scratches\Broadcaster\obj\Debug\net7.0\ref\Broadcaster.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\bin\Debug\net7.0\Broadcaster.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\bin\Debug\net7.0\Broadcaster.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\bin\Debug\net7.0\Broadcaster.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\bin\Debug\net7.0\Broadcaster.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\bin\Debug\net7.0\Broadcaster.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\refint\Broadcaster.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\Broadcaster.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 7\Broadcaster\obj\Debug\net7.0\ref\Broadcaster.dll
