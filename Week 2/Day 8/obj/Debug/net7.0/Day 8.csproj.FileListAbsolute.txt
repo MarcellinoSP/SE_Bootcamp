@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\bin\Debug\net7.0\Day 8.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\bin\Debug\net7.0\Day 8.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\bin\Debug\net7.0\Day 8.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\bin\Debug\net7.0\Day 8.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\bin\Debug\net7.0\Day 8.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\refint\Day 8.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\Day 8.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 8\obj\Debug\net7.0\ref\Day 8.dll
