@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\bin\Debug\net7.0\String, Number, and Data Handling.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\bin\Debug\net7.0\String, Number, and Data Handling.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\bin\Debug\net7.0\String, Number, and Data Handling.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\bin\Debug\net7.0\String, Number, and Data Handling.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\bin\Debug\net7.0\String, Number, and Data Handling.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\refint\String, Number, and Data Handling.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\String, Number, and Data Handling.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\String, Number, and Data Handling\obj\Debug\net7.0\ref\String, Number, and Data Handling.dll
