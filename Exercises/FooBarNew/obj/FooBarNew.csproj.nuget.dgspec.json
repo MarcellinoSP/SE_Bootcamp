@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 2\\Day 9\\Car Dealer\\Day 9.csproj": {}
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\FooBarNew\\FooBarNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 2\\Day 9\\Car Dealer\\Day 9.csproj": {
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\FooBarNew\\FooBarNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 2\\Day 9\\Car Dealer\\Day 9.csproj",
-        "projectName": "Day 9",
-        "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 2\\Day 9\\Car Dealer\\Day 9.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\FooBarNew\\FooBarNew.csproj",
+        "projectName": "FooBarNew",
+        "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\FooBarNew\\FooBarNew.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 2\\Day 9\\Car Dealer\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\FooBarNew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

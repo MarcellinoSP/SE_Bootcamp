@@ -28,3 +28,18 @@ C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.pdb
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.genruntimeconfig.cache
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\ref\Day 9.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\refint\Day 9.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Day 9.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Day 9.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Day 9.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Day 9.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Day 9.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Day 9.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\ref\Day 9.dll
