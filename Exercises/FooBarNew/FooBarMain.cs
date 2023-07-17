@@ -3,8 +3,7 @@ namespace FooBar;
 public class FooBarMain
 {
 	SortedDictionary<int, string> conditionLists = new SortedDictionary<int, string>();
-
-	public string result;
+	string? result;
 	
 	public string GenerateResult(int maximumValue)
 	{
@@ -37,7 +36,7 @@ public class FooBarMain
 	{
 		conditionLists.Add(position, word);
 	}
-    
+	
 	public void RemoveCondition(int removePosition)
 	{
 		conditionLists.Remove(removePosition);
