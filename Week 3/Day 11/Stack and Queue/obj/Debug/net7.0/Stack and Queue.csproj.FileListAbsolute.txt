@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\bin\Debug\net7.0\Stack and Queue.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\bin\Debug\net7.0\Stack and Queue.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\bin\Debug\net7.0\Stack and Queue.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\bin\Debug\net7.0\Stack and Queue.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\bin\Debug\net7.0\Stack and Queue.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\refint\Stack and Queue.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\Stack and Queue.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Stack and Queue\obj\Debug\net7.0\ref\Stack and Queue.dll

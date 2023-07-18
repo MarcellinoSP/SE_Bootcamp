@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "n55BrgGARG9ju8g3IX7Vo7rQIo8vFamI57/5UzBthQJwa9AzAsXcgVHYQ7n0l8KK5JXke/2Xzb9SE3vfFebOJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 1\\Day 4\\Day 4.csproj",
+=======
+  "dgSpecHash": "LafaAZ1Cyybvrrv6rBGJsMvo6K7VHuNC4jNZI/Phc52VSZzs0ql9eQcqm5v3Kop1cnQq32rIP3WhsnBMgvVALA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 1\\Day 4\\Day 4.csproj",
+>>>>>>> b7f585aac7b6f976345a7cbac9473d5fc99ba47e
   "expectedPackageFiles": [],
   "logs": []
 }

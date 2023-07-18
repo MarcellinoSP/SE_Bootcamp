@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\bin\Debug\net7.0\Battle simulator.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\bin\Debug\net7.0\Battle simulator.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\bin\Debug\net7.0\Battle simulator.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\bin\Debug\net7.0\Battle simulator.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\bin\Debug\net7.0\Battle simulator.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\refint\Battle simulator.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\Battle simulator.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\Battle simulator\obj\Debug\net7.0\ref\Battle simulator.dll
