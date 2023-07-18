@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
-      "projectName": "HashSets",
-      "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Self Mini Project\\Self Mini Project.csproj",
+      "projectName": "Self Mini Project",
+      "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Self Mini Project\\Self Mini Project.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Exercises\\Self Mini Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

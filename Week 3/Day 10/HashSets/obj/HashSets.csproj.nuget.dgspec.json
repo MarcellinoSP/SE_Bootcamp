@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 3\\Day 10\\HashSets\\HashSets.csproj": {}
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 3\\Day 10\\HashSets\\HashSets.csproj": {
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
         "projectName": "HashSets",
-        "projectPath": "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Documents\\Bootcamp New\\SE_Bootcamp\\Week 3\\Day 10\\HashSets\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\HashSets.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 3\\Day 10\\HashSets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

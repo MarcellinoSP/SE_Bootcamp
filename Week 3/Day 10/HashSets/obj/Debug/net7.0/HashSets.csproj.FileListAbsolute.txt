@@ -13,3 +13,18 @@ C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 10\HashSets\obj\D
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.pdb
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.genruntimeconfig.cache
 C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 10\HashSets\obj\Debug\net7.0\ref\HashSets.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\bin\Debug\net7.0\HashSets.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\bin\Debug\net7.0\HashSets.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\bin\Debug\net7.0\HashSets.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\bin\Debug\net7.0\HashSets.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\bin\Debug\net7.0\HashSets.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\refint\HashSets.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\HashSets.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 3\Day 10\HashSets\obj\Debug\net7.0\ref\HashSets.dll
