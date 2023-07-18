@@ -14,6 +14,7 @@
 		
 		inazumaArena.ShowPlayerList();
 		inazumaArena.StartBattle();
+		inazumaArena.ShowLeaderboards();
 	}
 }
 
@@ -42,6 +43,17 @@ public class BattleArena
 			Random score = new();
 			playerList[i].score = score.Next(0, 101);
 			Console.WriteLine(playerList[i].score);
+		}
+	}
+	public void ShowLeaderboards()
+	{
+		var sortedRank = playerList.OrderByDescending(playerList => playerList.score);
+		int rank = 1;
+		
+		foreach(Player player in sortedRank)
+		{
+			Console.WriteLine(player.name);
+			rank++;
 		}
 	}
 }
