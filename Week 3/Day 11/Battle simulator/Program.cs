@@ -13,6 +13,7 @@
 		inazumaArena.AddPlayer(player3);
 		
 		inazumaArena.ShowPlayerList();
+		inazumaArena.StartBattle();
 	}
 }
 
@@ -40,6 +41,7 @@ public class BattleArena
 		{
 			Random score = new();
 			playerList[i].score = score.Next(0, 101);
+			Console.WriteLine(playerList[i].score);
 		}
 	}
 }
