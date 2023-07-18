@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\bin\Debug\net7.0\Day 11.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\bin\Debug\net7.0\Day 11.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\bin\Debug\net7.0\Day 11.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\bin\Debug\net7.0\Day 11.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\bin\Debug\net7.0\Day 11.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\refint\Day 11.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\Day 11.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 3\Day 11\obj\Debug\net7.0\ref\Day 11.dll

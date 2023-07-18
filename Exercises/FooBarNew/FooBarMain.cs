@@ -34,11 +34,23 @@ public class FooBarMain
 
 	public void AddCondition(int position, string word)
 	{
-		conditionLists.Add(position, word);
+		if(CheckDuplicate == true)
+		{
+			Console.WriteLine("Condition already exist!");
+		}else
+		{
+			conditionLists.Add(position, word);
+		}
 	}
 	
 	public void RemoveCondition(int removePosition)
 	{
 		conditionLists.Remove(removePosition);
+	}
+	
+	private bool CheckDuplicate(int position)
+	{
+		bool checkCondition = conditionLists.ContainsKey(position);
+		return checkCondition;
 	}
 }
