@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\bin\Debug\net7.0\Self Mini Project.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\bin\Debug\net7.0\Self Mini Project.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\bin\Debug\net7.0\Self Mini Project.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\bin\Debug\net7.0\Self Mini Project.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\bin\Debug\net7.0\Self Mini Project.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\refint\Self Mini Project.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\Self Mini Project.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Self Mini Project\obj\Debug\net7.0\ref\Self Mini Project.dll
