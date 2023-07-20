@@ -4,11 +4,10 @@ using System.Text;
 public class FooBarMain
 {
 	SortedDictionary<int, string> conditionLists = new SortedDictionary<int, string>();
-	StringBuilder message = new();
-	StringBuilder result = new();
 	
 	public string GenerateResult(int maximumValue)
 	{
+		StringBuilder result = new();
 		for(int i = 0; i <= maximumValue; i++)
 		{
 			StringBuilder tempResult = new();
@@ -33,31 +32,35 @@ public class FooBarMain
 		}
 		return result.ToString();
 	}
-	public void AddCondition(int position, string word)
+	public string AddCondition(int position, string word)
 	{
+		StringBuilder message = new();
 		bool result = CheckCondition(position);
 		if(result)
 		{
 			message.Append("Number already exist!");
-			Console.WriteLine(message.ToString());
 		}
 		else
 		{
 			conditionLists.Add(position, word);
+			message.Append("New condition successfully added");
 		}
+		return message.ToString();
 	}
-	public void RemoveCondition(int removePosition)
+	public string RemoveCondition(int removePosition)
 	{
+		StringBuilder message = new();
 		bool result = CheckCondition(removePosition);
 		if(!result)
 		{
 			message.Append("Number doesn't exist on current list");
-			Console.WriteLine(message.ToString());
 		}
 		else
 		{
-			conditionLists.Remove(removePosition);	
+			conditionLists.Remove(removePosition);
+			message.Append("Condition successfully removed!");
 		}
+		return message.ToString();
 	}
 	private bool CheckCondition(int position)
 	{

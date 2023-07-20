@@ -13,8 +13,8 @@ class Program
 		fooBar.AddCondition(5, "Bar");
 		fooBar.AddCondition(9, "Meng");
 		
-		//fooBar.RemoveCondition(5);		//REMOVE FUNCTION
-		// fooBar.AddCondition(5, "Fizz");	//TRIAL ADDING DUPLICATE CONDITION
+		// string messageResult1 = fooBar.RemoveCondition(5);		//REMOVE FUNCTION
+		// string messageResult = fooBar.AddCondition(5, "Fizz");	//TRIAL ADDING DUPLICATE CONDITION
 		
 		result.Append(fooBar.GenerateResult(size));
 		Console.WriteLine(result.ToString());

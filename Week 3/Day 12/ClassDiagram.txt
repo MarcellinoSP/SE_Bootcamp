@@ -1,0 +1,39 @@
+classDiagram
+    GameRunner"1" <|-- "4"Players
+    GameRunner "1" <|-- "1" Board
+    GameRunner "1"<|-- "100"Tiles
+    GameRunner "1"<|-- "1"Leaderboard
+    Tiles "1"<|-- "2" TilePart
+    Players <|-- IPlayer
+    class Players{
+        -string playerName
+        -string playerID
+        +playTile()
+        +skipTurn()
+    }
+    class Board{
+        -int rowSize
+        -int columnSize
+    }
+    class Tiles{
+        -int value
+    }
+    class TilePart{
+        <<interface>>
+        -setSideXValue(value)
+    }
+    class Leaderboard{
+        -string ~playerLists~
+        +ShowLeaderboard()
+    }
+    class GameRunner{
+        +string ~playerLists~
+        +var ~tileList~
+        -var ~ownedTileByPlayer~
+        +runGame()
+    }
+    class IPlayer{
+        <<interface>>
+        -setPlayerName();
+        -setPlayerID();
+    }
