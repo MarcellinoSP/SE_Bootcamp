@@ -1,0 +1,79 @@
+classDiagram
+    IPlayer <|-- Players
+    IPlayer --> MoveSet
+    Players"1" <-- "7"Tile
+    Boneyard"1" *-- "28-(7n)"Tile
+    Boneyard *-- DrawTile
+    Board"1" *-- "1"Boneyard
+    Tile"1" <|-- "2"TilePart 
+    
+    PlaceTile *-- Tile
+    MoveSet o-- PlaceTile
+    MoveSet o-- PassMove
+    MoveSet o-- DrawTile
+    GameRunner *-- IPlayer
+    GameRunner *-- Board
+    GameRunner o-- Message
+    GameRunner o-- LeaderBoard
+
+    class GameRunner{
+        +IPlayer player[2]
+        +Dict ~player.tileOwned~ 
+        +~Tile~ tile[28]
+        +BoneYard ~tileRemained~
+        +GameBegin()
+        +CheckDoubleTile()
+        +GameEnded()
+        +ShowLeaderboard()
+        +bool playersTileRemained()
+    }
+    class PlaceTile{
+        -Tile choosenTile
+        -var position
+        +bool checkTilePoints() bool
+        +bool isMatched() bool
+    }
+    class PassMove{
+        Pass()
+    }
+    class DrawTile{
+        bool boneYardIsAvailable() bool
+    }
+    class Board{
+        -int size
+    }
+    class Players{
+        -string name
+        -int id
+    }
+    class IPlayer{
+        <<interface>>
+        +PlayTurn(MoveSet)
+    }
+    class MoveSet{
+        bool Players.ownedTile() bool
+        MakeMove()
+    }
+    class Tile{
+        <<abstract>>
+        Tile(TilePart sideA, TilePart sideB)
+        +bool isDouble() bool
+        -int value
+    }
+    class TilePart{
+        -int sideNumber() int
+    }
+    class Boneyard{
+        -string ~tileList~
+    }
+    class Message{
+        <<enumeration>>
+        DrawTile
+        Pass
+        WinTheGame
+        LostTheGame
+    }
+    class LeaderBoard{
+       -List ~Player~ condition
+       +string sortRank() string
+    }
