@@ -16,7 +16,7 @@
 		Console.WriteLine(z.a); //Using Struct
 		Console.WriteLine(y.a); //Using Struct
 		
-		string word = Parrent2.PrintString();
+		string word = c.PrintString();
 	}
 }
 class Parrent2
