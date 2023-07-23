@@ -37,3 +37,66 @@ classDiagram
         -setPlayerName();
         -setPlayerID();
     }
+
+
+    classDiagram
+    IPlayer <|-- Players
+    IPlayer *-- PlaceTile
+    Players <-- Tile
+    Drawer o-- Tile
+    Drawer <-- Board
+    Tile <|-- TilePart 
+    TilePart <|-- TilePoint
+    PlaceTile *-- Tile
+    GameRunner o-- IPlayer
+    GameRunner *-- Board
+
+    class GameRunner{
+        +IPlayer player[4]
+        +~Tile~ tile[28]
+        +Drawer ~tileRemained~
+        +GameBegin()
+        +CheckDoubleTile()
+        +GameEnded()
+        +bool playersTileRemained()
+    }
+    class PlaceTile{
+        -Tile choosenTile
+        -var position
+        -bool checkTile()
+    }
+    class Board{
+        -int size
+    }
+    class Players{
+        -string ~Tile~ tile
+    }
+    class IPlayer{
+        <<interface>>
+        -placeMove();
+        -drawTile()
+    }
+    class Tile{
+        <<abstract>>
+        -Tile(TilePart sideA, TilePart sideB)
+        -int value
+    }
+    class TilePart{
+        -int number
+    }
+    class TilePoint{
+        bool isPaired();
+    }
+    class Drawer{
+        -string ~tileList~
+    }
+    class Message{
+        <<enum>>
+        DrawTile
+        WinTheGame
+        LostTheGame
+    }
+    class LeaderBoard{
+       -List ~Player~ condition
+       -sortRank()
+    }
