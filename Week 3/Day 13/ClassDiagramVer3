@@ -1,0 +1,101 @@
+```
+classDiagram
+    %%Game runner 
+    DominoGame "1" *-- "2..4" Player
+    DominoGame "1" *-- "14..28" Tile
+    DominoGame "1"*--"1" Board
+    DominoGame "1"..|>"1" Message : uses
+    DominoGame "1" ..|>"1" GameMode : uses
+    DominoGame "1"*--"1" Boneyard
+    DominoGame "1"o--"1" Moveset
+    DominoGame "1"o--"1" Leaderboard
+
+    %%Player
+    IPlayer <|.. Player : implements
+
+    %%Board
+    IBoard <|.. Board : implements
+
+    class DominoGame{
+        %%-List ~Tile~ tileList
+        -int currentPlayerTurn
+        -Dictionary ~IPlayer.List~Tile~~ playerResources
+        +Board board
+        +GameMode gameMode
+        +Boneyard boneyard
+        +Leaderboard leaderboard
+        +AddPlayer(Player) : bool
+        +GenerateTile(Player) : Tile
+        +CountDoubleTile(Player) : int
+        +CountPlayerTile(Player) : int
+        %%+SetGameMode() : bool
+        +GetGameMode() : Enumeration
+        +GetGameMessage() : string gameMessage
+        +SetPlayerTurn(Player) : bool
+        +MoveNextTurn() : bool
+        +PlayerOnTurn(currentPlayerTurn) : bool
+        +TileValueMatched() : bool
+        +CheckBoneyardAvailibility() : bool
+        +IsEnded() : bool
+        +ShowLeaderboard() : void
+    }
+    class Player{
+        -string name
+        -int id
+        +SetName(string) : bool
+        +SetID(int) : bool
+        +GetName() : string
+        +GetID() : int
+    }
+    class IPlayer{
+        <<interface>>
+        +SetName(string) : bool
+        +SetID(string) : bool
+        +GetName() : string
+        +GetID() : int
+    }
+    class Tile{
+        -int positionX
+        -int positionY
+        -int value[2]
+        -string orientation
+        +SetTileValue(int sideA, int sideB) : bool
+        +GetPosition() : int
+        +SetOrientation(string) : bool
+        +GetOrientation() : string
+    }
+    class Boneyard{
+        +ShuffleTile() : void
+        +OpenTile() : string
+        +List ~int[2]~ tileOnBoneyard
+    }
+    class Board{
+        -int sizeX
+        -int sizeY
+        +List ~Tile~ tileOnBoard
+        +SetBoundaries(int posX, int posY) : bool
+        +GetBoundaries() : int
+    }
+    class IBoard{
+        +SetBoundaries(int posX, int posY) : bool
+        +GetBoundaries() : int
+    }
+    class Moveset{
+        +DrawTile()
+        +PlaceTile()
+        +PassTurn()
+    }
+    class Message{
+        <<Enumeration>>
+        WinTheGame
+        LostTheGame
+    }
+    class GameMode{
+        <<Enumeration>>
+        DrawMode
+        BlockMode
+    }
+    class Leaderboard{
+        +ShowPlayerRank() : string
+    }
+```
