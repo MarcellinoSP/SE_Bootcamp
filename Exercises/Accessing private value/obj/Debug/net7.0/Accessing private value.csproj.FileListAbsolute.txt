@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\bin\Debug\net7.0\Accessing private value.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\bin\Debug\net7.0\Accessing private value.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\bin\Debug\net7.0\Accessing private value.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\bin\Debug\net7.0\Accessing private value.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\bin\Debug\net7.0\Accessing private value.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\refint\Accessing private value.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\Accessing private value.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Accessing private value\obj\Debug\net7.0\ref\Accessing private value.dll
