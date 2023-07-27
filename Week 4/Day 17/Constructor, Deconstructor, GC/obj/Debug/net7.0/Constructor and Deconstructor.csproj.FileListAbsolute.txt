@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\bin\Debug\net7.0\Constructor and Deconstructor.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\bin\Debug\net7.0\Constructor and Deconstructor.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\bin\Debug\net7.0\Constructor and Deconstructor.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\bin\Debug\net7.0\Constructor and Deconstructor.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\bin\Debug\net7.0\Constructor and Deconstructor.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\refint\Constructor and Deconstructor.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\Constructor and Deconstructor.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 4\Day 17\Constructor and Deconstructor\obj\Debug\net7.0\ref\Constructor and Deconstructor.dll
