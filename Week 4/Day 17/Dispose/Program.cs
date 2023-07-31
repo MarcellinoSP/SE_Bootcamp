@@ -5,8 +5,8 @@ class Program
 	{
 		using (Writing writingNew = new())
 		{
-			writingNew.StartWriting();
-			writingNew.WriteAnother();
+			writingNew.StartWriting("Santai dulu ga sih");
+			writingNew.WriteAnother("Pake nanya");
 		}
 	}
 }
@@ -20,14 +20,14 @@ public class Writing : IDisposable
 		Console.WriteLine("Output created");
 	}
 	
-	public void StartWriting()
+	public void StartWriting(string message)
 	{
-		streamWriter.WriteLine("Hello!");
+		streamWriter.WriteLine(message);
 	}
 	
-	public void WriteAnother()
+	public void WriteAnother(string message)
 	{
-		streamWriter.Write("Newbie here!");
+		streamWriter.Write(message);
 	}
 	
 	public void Dispose()
@@ -49,7 +49,7 @@ public class Writing : IDisposable
 	}
 	
 	//THIS CODE BELOW LEAD TO UNHANDLED EXCEPTION
-	//DUE TO EARLY DISPOSED STREAM WRITER
+	//DUE TO DISPOSED STREAM WRITER
 	
 	// public void StartWriting()
 	// {
@@ -60,5 +60,6 @@ public class Writing : IDisposable
 	// public void WriteAnother()
 	// {
 	// 	streamWriter.Write("Another Line");
+	// 	streamWriter.Dispose();
 	// }
 }
