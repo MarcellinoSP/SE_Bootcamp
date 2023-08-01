@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\bin\Debug\net7.0\Another Async Await.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\bin\Debug\net7.0\Another Async Await.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\bin\Debug\net7.0\Another Async Await.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\bin\Debug\net7.0\Another Async Await.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\bin\Debug\net7.0\Another Async Await.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\refint\Another Async Await.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\Another Async Await.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 20\Another Async Await\obj\Debug\net7.0\ref\Another Async Await.dll
