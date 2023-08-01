@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\bin\Debug\net7.0\Conditional Compilation.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\bin\Debug\net7.0\Conditional Compilation.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\bin\Debug\net7.0\Conditional Compilation.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\bin\Debug\net7.0\Conditional Compilation.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\bin\Debug\net7.0\Conditional Compilation.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\refint\Conditional Compilation.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\Conditional Compilation.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Conditional Compilation\obj\Debug\net7.0\ref\Conditional Compilation.dll

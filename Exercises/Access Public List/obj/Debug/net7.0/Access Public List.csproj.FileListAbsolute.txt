@@ -13,3 +13,18 @@ C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Access Publi
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.pdb
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.genruntimeconfig.cache
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Access Public List\obj\Debug\net7.0\ref\Access Public List.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\bin\Debug\net7.0\Access Public List.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\bin\Debug\net7.0\Access Public List.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\bin\Debug\net7.0\Access Public List.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\bin\Debug\net7.0\Access Public List.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\bin\Debug\net7.0\Access Public List.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\refint\Access Public List.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\Access Public List.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Access Public List\obj\Debug\net7.0\ref\Access Public List.dll

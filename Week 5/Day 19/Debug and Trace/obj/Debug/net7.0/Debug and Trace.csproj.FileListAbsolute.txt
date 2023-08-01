@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\bin\Debug\net7.0\Debug and Trace.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\bin\Debug\net7.0\Debug and Trace.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\bin\Debug\net7.0\Debug and Trace.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\bin\Debug\net7.0\Debug and Trace.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\bin\Debug\net7.0\Debug and Trace.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\refint\Debug and Trace.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\Debug and Trace.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Debug and Trace\obj\Debug\net7.0\ref\Debug and Trace.dll

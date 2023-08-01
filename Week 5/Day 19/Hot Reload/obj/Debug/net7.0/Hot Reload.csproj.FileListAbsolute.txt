@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\bin\Debug\net7.0\Hot Reload.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\bin\Debug\net7.0\Hot Reload.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\bin\Debug\net7.0\Hot Reload.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\bin\Debug\net7.0\Hot Reload.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\bin\Debug\net7.0\Hot Reload.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\refint\Hot Reload.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\Hot Reload.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 19\Hot Reload\obj\Debug\net7.0\ref\Hot Reload.dll

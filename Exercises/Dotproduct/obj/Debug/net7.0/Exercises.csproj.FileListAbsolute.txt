@@ -21,3 +21,18 @@ C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Dotproduct\o
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.dll
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Dotproduct\obj\Debug\net7.0\refint\Exercises.dll
 C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\bin\Debug\net7.0\Exercises.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\bin\Debug\net7.0\Exercises.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\bin\Debug\net7.0\Exercises.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\bin\Debug\net7.0\Exercises.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\bin\Debug\net7.0\Exercises.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\refint\Exercises.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\Exercises.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Exercises\Dotproduct\obj\Debug\net7.0\ref\Exercises.dll
