@@ -6,8 +6,10 @@ static class Program
 	static async Task Main(string[] args)
 	{
 		Console.WriteLine("Main Method Started");
+		Task task1 = null;
+		Task task2 = null;
 
-		var task1 = Task.Run(async () =>
+		task1 = Task.Run(async () =>
 		{
 			Console.WriteLine("Task 1 started");
 			await Task.Delay(1000);
@@ -17,7 +19,7 @@ static class Program
 			Console.WriteLine("Task 1 waiting for Task 2");
 		});
 		
-		var task2 = Task.Run(async () =>
+		task2 = Task.Run(async () =>
 		{
 			Console.WriteLine("Task 2 started");
 			await Task.Delay(1000);
