@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\bin\Debug\net7.0\File on stream.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\bin\Debug\net7.0\File on stream.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\bin\Debug\net7.0\File on stream.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\bin\Debug\net7.0\File on stream.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\bin\Debug\net7.0\File on stream.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\refint\File on stream.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\File on stream.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\File on stream\obj\Debug\net7.0\ref\File on stream.dll

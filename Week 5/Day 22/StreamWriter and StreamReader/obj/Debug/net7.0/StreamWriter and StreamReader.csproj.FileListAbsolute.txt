@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\bin\Debug\net7.0\StreamWriter and StreamReader.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\bin\Debug\net7.0\StreamWriter and StreamReader.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\bin\Debug\net7.0\StreamWriter and StreamReader.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\bin\Debug\net7.0\StreamWriter and StreamReader.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\bin\Debug\net7.0\StreamWriter and StreamReader.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\refint\StreamWriter and StreamReader.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\StreamWriter and StreamReader.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 5\Day 22\StreamWriter and StreamReader\obj\Debug\net7.0\ref\StreamWriter and StreamReader.dll
