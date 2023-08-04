@@ -5,14 +5,15 @@ namespace PersonClass;
 
 public class JsonTryAdd
 {
+    List<Person> people = new();
+
+	public void AddMember()
+	{
+        people.Add(new Person("John", 123));
+        people.Add(new Person("Type", 444));
+	}
 	public void Trial()
 	{
-		var p = new Person("John", 123);
-        var p2 = new Person("Yusuf", 444);
-        List<Person> people = new();
-        people.Add(p);
-        people.Add(p2);
-
         var ser = new DataContractJsonSerializer(typeof(List<Person>));
         using (FileStream stream = new FileStream("person.json", FileMode.OpenOrCreate))
         {
