@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\bin\Debug\net7.0\Data Contract.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\bin\Debug\net7.0\Data Contract.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\bin\Debug\net7.0\Data Contract.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\bin\Debug\net7.0\Data Contract.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\bin\Debug\net7.0\Data Contract.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\refint\Data Contract.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\Data Contract.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Scratches\Data Contract\obj\Debug\net7.0\ref\Data Contract.dll
