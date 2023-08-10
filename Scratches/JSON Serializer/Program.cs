@@ -1,43 +1,48 @@
-﻿// using System.Text.Json;
+﻿#define RUN
 
-// public class Pawn
-// {
-// 	public int X{get; set;}
-// 	public int Y{get; set;}
-// 	public string Name {get; set;}
+#if TEST
+using System.Text.Json;
 
-// 	public Pawn(int x, int y, string name)
-// 	{
-// 		X = x;
-// 		Y = y;
-// 		Name = name;
-// 	}
-// 	public Pawn()
-// 	{
-		
-// 	}
-// }
+public class Pawn
+{
+	public int X{get; set;}
+	public int Y{get; set;}
+	public string Name {get; set;}
 
-// class Program
-// {
-// 	static void Main()
-// 	{
-// 		// JSON file path
-// 		string jsonFilePath = "pawns.json";
+	public Pawn(int x, int y, string name)
+	{
+		X = x;
+		Y = y;
+		Name = name;
+	}
+	public Pawn()
+	{
 		
-// 		List<Pawn> pawns = new List<Pawn>
-// 		{
-// 			new Pawn {Name = "hello", X = 1, Y = 2},
-// 			new Pawn {Name = "Hi", X = 2, Y = 1}
-// 		};
-// 		string json = JsonSerializer.Serialize(pawns);
+	}
+}
+
+class Program
+{
+	static void Main()
+	{
+		// JSON file path
+		string jsonFilePath = "pawns.json";
 		
-// 		using (StreamWriter writer = new StreamWriter(jsonFilePath))
-// 		{
-// 			writer.Write(json);
-// 		}
-// 	}
-// }
+		List<Pawn> pawns = new List<Pawn>
+		{
+			new Pawn {Name = "hello", X = 1, Y = 2},
+			new Pawn {Name = "Hi", X = 2, Y = 1}
+		};
+		string json = JsonSerializer.Serialize(pawns);
+		
+		using (StreamWriter writer = new StreamWriter(jsonFilePath))
+		{
+			writer.Write(json);
+		}
+	}
+}
+
+#elif RUN
 
 using System.Text.Json;
 
@@ -84,7 +89,7 @@ class Program
 		// Step 4: Serialize the updated data structure back to JSON format
 		var options = new JsonSerializerOptions
 		{
-		    WriteIndented = true // Optional: Makes the output more readable
+			WriteIndented = true // Optional: Makes the output more readable
 		};
 		string updatedJsonData = JsonSerializer.Serialize(pawns);
 
@@ -95,3 +100,4 @@ class Program
 		}
 	}
 }
+#endif

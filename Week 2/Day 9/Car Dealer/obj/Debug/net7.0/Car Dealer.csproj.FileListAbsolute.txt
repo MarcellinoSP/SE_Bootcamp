@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Car Dealer.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Car Dealer.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Car Dealer.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Car Dealer.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\bin\Debug\net7.0\Car Dealer.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\refint\Car Dealer.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\Car Dealer.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 2\Day 9\Car Dealer\obj\Debug\net7.0\ref\Car Dealer.dll

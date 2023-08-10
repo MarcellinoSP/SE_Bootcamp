@@ -1,0 +1,6 @@
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\obj\Debug\net7.0\NUnit.Test.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\obj\Debug\net7.0\NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\obj\Debug\net7.0\NUnit.Test.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\obj\Debug\net7.0\NUnit.Test.AssemblyInfo.cs
+c:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Unit Testing Special\NUnit.Test\obj\Debug\net7.0\NUnit.Test.csproj.CoreCompileInputs.cache

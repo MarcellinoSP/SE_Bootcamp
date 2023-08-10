@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\bin\Debug\net7.0\NUnit.exe
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\bin\Debug\net7.0\NUnit.deps.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\bin\Debug\net7.0\NUnit.runtimeconfig.json
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\bin\Debug\net7.0\NUnit.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\bin\Debug\net7.0\NUnit.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\refint\NUnit.dll
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.pdb
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\NUnit.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\Bootcamp New\SE_Bootcamp\Week 6\Day 25\NUnit\obj\Debug\net7.0\ref\NUnit.dll
