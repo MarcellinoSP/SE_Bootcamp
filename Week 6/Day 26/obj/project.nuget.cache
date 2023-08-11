@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPwBh9+H2v4Gf9Wa0ZWQoyah1ZK8d9CFBQUp4FLO8IrJQTEZSagEiI5b2O3KlZh7p0NA9f9KFa1UxYBmKEzGHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 6\\Day 26\\Day 26.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

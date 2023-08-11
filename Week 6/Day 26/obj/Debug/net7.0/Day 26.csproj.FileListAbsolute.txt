@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\Day 26.exe
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\Day 26.deps.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\Day 26.runtimeconfig.json
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\Day 26.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\Day 26.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\bin\Debug\net7.0\NLog.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.AssemblyInfo.cs
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.csproj.CopyComplete
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\refint\Day 26.dll
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.pdb
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\Day 26.genruntimeconfig.cache
+C:\Users\user\Documents\Berkas Daftar Kerja\Bootcamp File\Week 6\Day 26\obj\Debug\net7.0\ref\Day 26.dll
