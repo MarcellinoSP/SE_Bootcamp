@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj": {}
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj": {
+    "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj",
         "projectName": "DatabaseTrial",
-        "projectPath": "c:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\DatabaseTrial.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Berkas Daftar Kerja\\Bootcamp File\\Week 7\\DatabaseTrial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,12 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
             },
